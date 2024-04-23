@@ -1,0 +1,42 @@
+{
+  "borderRadius": {
+    "none": {
+      "value": "0px",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "sm": {
+      "value": "12px",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "24px",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "50em",
+      "type": "borderRadius"
+    },
+    "circle": {
+      "value": "50%",
+      "type": "borderRadius"
+    }
+  },
+  "borderWidth": {
+    "sm": {
+      "value": "0.0625rem",
+      "type": "borderWidth"
+    },
+    "md": {
+      "value": "0.125rem",
+      "type": "borderWidth"
+    }
+  }
+}
