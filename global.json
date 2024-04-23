@@ -40,5 +40,13 @@
         "type": "borderWidth"
       }
     }
+  },
+  "v2": {},
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "v1",
+      "v2"
+    ]
   }
 }
